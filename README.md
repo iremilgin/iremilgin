@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 🔭 I am looking for a job on full stack development.
 - 🌱 I’m currently developing myself on JavaScript and C#.
 - 👯 I’m looking to collaborate on full stack development project.
-- 🤔 I’m looking for help with top-down game design.
 - 📫 How to reach me: ireemilgin@gmail.com
 
 <h3 align="left">Connect with me:</h3>
