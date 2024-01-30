@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I am looking for a job on full stack development.
 - 🌱 I’m currently developing myself on JavaScript and C#.
 - 👯 I’m looking to collaborate on full stack development project.
 - 📫 How to reach me: ireemilgin@gmail.com
